@@ -187,7 +187,7 @@ Performance residual = Actual points per match − Expected points per match
 
 Expected performance is estimated within each league-season from the natural logarithm of participating-player market value. Club-seasons require at least 80% valuation coverage and valuations no more than 180 days old.
 
-![Theme 1 dashboard](images/theme_1/theme_1_dashboard.png)
+![Theme 1 dashboard](images/theme_1_dashboard.png)
 
 <a href="https://public.tableau.com/views/EuropeanFootballTalentandTransferAnalyticsTheme1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank"><img src="https://img.shields.io/badge/View%20Theme%201%20Dashboard-Tableau%20Public-E97627?logo=tableau&logoColor=white" alt="View Theme 1 Dashboard on Tableau Public"></a>
 
@@ -222,7 +222,7 @@ Goal contributions per 90 =
 (Goals + Assists) × 90 ÷ Minutes played
 ```
 
-![Theme 2 dashboard](images/theme_2/theme_2_dashboard.png)
+![Theme 2 dashboard](images/theme_2_dashboard.png)
 
 <a href="https://public.tableau.com/views/EuropeanFootballTalentandTransferAnalyticsTheme2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank"><img src="https://img.shields.io/badge/View%20Theme%202%20Dashboard-Tableau%20Public-E97627?logo=tableau&logoColor=white" alt="View Theme 2 Dashboard on Tableau Public"></a>
 
@@ -253,7 +253,7 @@ Goal contributions per 90 =
 
 Absolute and percentage growth are reported separately because low starting values can dominate percentage rankings.
 
-![Theme 3 dashboard](images/theme_3/theme_3_dashboard.png)
+![Theme 3 dashboard](images/theme_3_dashboard.png)
 
 <a href="https://public.tableau.com/views/EuropeanFootballTalentandTransferAnalyticsTheme3/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank"><img src="https://img.shields.io/badge/View%20Theme%203%20Dashboard-Tableau%20Public-E97627?logo=tableau&logoColor=white" alt="View Theme 3 Dashboard on Tableau Public"></a>
 
@@ -304,7 +304,7 @@ Selected value-opportunity cases include **Juanlu Sánchez**, **Lucas Stassin**,
 
 The shortlist identifies statistically interesting profiles; it does not account for tactical fit, wages, contract details, injury history, personality or qualitative scouting.
 
-![Theme 4 dashboard](images/theme_4/theme_4_dashboard.png)
+![Theme 4 dashboard](images/theme_4_dashboard.png)
 
 <a href="https://public.tableau.com/views/EuropeanFootballTalentandTransferAnalyticsTheme4/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank"><img src="https://img.shields.io/badge/View%20Theme%204%20Dashboard-Tableau%20Public-E97627?logo=tableau&logoColor=white" alt="View Theme 4 Dashboard on Tableau Public"></a>
 
@@ -354,7 +354,7 @@ Net post-transfer estimated market-value growth
 
 This is an analytical indicator, not an audited financial return.
 
-![Theme 5 dashboard](images/theme_5/theme_5_dashboard.png)
+![Theme 5 dashboard](images/theme_5_dashboard.png)
 
 <a href="https://public.tableau.com/views/EuropeanFootballTalentandTransferAnalyticsTheme5/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank"><img src="https://img.shields.io/badge/View%20Theme%205%20Dashboard-Tableau%20Public-E97627?logo=tableau&logoColor=white" alt="View Theme 5 Dashboard on Tableau Public"></a>
 
