@@ -374,7 +374,7 @@ Selected analytical outputs are presented through five interactive Tableau Publi
 
 The `outputs/` directory contains selected dashboard-ready CSV extracts generated from SQL.
 
-See [`outputs/README.md`](outputs/README.md) for details.
+See [`outputs/README.md`](outputs/README_outputs.md) for details.
 
 ---
 
@@ -491,10 +491,10 @@ Please refer to the source dataset page for the latest dataset information and a
 
 ## Author
 
-**[YOUR NAME]**
+**Andy Nguyen**
 
-- GitHub: `[ADD GITHUB PROFILE]`
-- LinkedIn: `[ADD LINKEDIN PROFILE]`
+- GitHub: `[https://github.com/andynguyen1309]`
+- LinkedIn: `[https://www.linkedin.com/in/khoa-anh-andy-nguyen-275523252/]`
 - Tableau Public dashboards: [Theme 1](https://public.tableau.com/views/EuropeanFootballTalentandTransferAnalyticsTheme1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) · [Theme 2](https://public.tableau.com/views/EuropeanFootballTalentandTransferAnalyticsTheme2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) · [Theme 3](https://public.tableau.com/views/EuropeanFootballTalentandTransferAnalyticsTheme3/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) · [Theme 4](https://public.tableau.com/views/EuropeanFootballTalentandTransferAnalyticsTheme4/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) · [Theme 5](https://public.tableau.com/views/EuropeanFootballTalentandTransferAnalyticsTheme5/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
