@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Raw source dataset
+eu_football.zip
+eu_football/
+eu_football (original dataset)/
+
+# Temporary files
+*.tmp
+*.log
+
+# DBeaver / local IDE metadata
+.dbeaver/
+*.swp
+
+# Tableau temporary/cache files
+~$*
+*.hyper
