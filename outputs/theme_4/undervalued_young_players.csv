@@ -1,0 +1,15 @@
+﻿player_id,player_name,age,age_group,position,sub_position,club_name,competition_name,country_name,minutes_played,appearances,goals,assists,goal_contributions,goal_contributions_per_90,availability_percentage,position_adjusted_performance_percentile,market_value_in_eur,position_age_median_market_value_eur,value_discount_to_benchmark_eur,value_discount_percentage,value_percentile_within_position_age,yoy_performance_percentile_change,yoy_market_value_change_eur,qualified_seasons,average_performance_percentile,performance_percentile_stddev,undervalued_young_position_rank,undervalued_young_overall_rank
+676042,Juanlu Sánchez,21,21-23,Defender,Right-Back,Sevilla FC,laliga,Spain,1724,32,4,4,8,0.418,50.41,100,12000000,12500000,500000,4,35.87,21.54,-3000000,2,89.23,15.23,1,1
+798043,Tom Rothe,20,20 or younger,Defender,Left-Back,1.FC Union Berlin,bundesliga,Germany,1672,26,3,4,7,0.377,54.64,96.36,10000000,12500000,2500000,20,28,,,1,96.36,,2,2
+655012,Lucas Stassin,20,20 or younger,Attack,Centre-Forward,AS Saint-Étienne,ligue-1,France,1868,28,12,5,17,0.819,61.05,90.28,18000000,29000000,11000000,37.93,15,,,1,90.28,,1,3
+604320,Frans Krätzig,22,21-23,Defender,Left-Back,1. Fußballclub Heidenheim 1846,bundesliga,Germany,1283,17,1,2,3,0.21,41.93,80.91,3500000,12500000,9000000,72,8.7,,,1,80.91,,3,4
+568333,Adam Obert,22,21-23,Defender,Left-Back,Cagliari Calcio,serie-a,Italy,1076,21,1,1,2,0.167,31.46,80.45,3000000,12500000,9500000,76,5.43,80.45,-500000,2,40.23,56.89,4,5
+633668,Giovanni Fabbian,22,21-23,Midfield,Attacking Midfield,Bologna Football Club 1909,serie-a,Italy,1010,30,3,1,4,0.356,29.53,80,12000000,17000000,5000000,29.41,17.53,-16.46,-2000000,2,88.23,11.64,1,6
+659518,Félix Lemaréchal,21,21-23,Midfield,Attacking Midfield,RC Strasbourg Alsace,ligue-1,France,1782,27,4,3,7,0.354,58.24,79.01,10000000,17000000,7000000,41.18,14.43,,,1,79.01,,2,7
+855015,Farès Chaïbi,22,21-23,Midfield,Attacking Midfield,Eintracht Frankfurt,bundesliga,Germany,1008,26,1,3,4,0.357,32.94,78.95,9000000,17000000,8000000,47.06,13.4,0.06,-9000000,3,80.61,2.93,3,8
+826224,Arnau Martínez,22,21-23,Defender,Right-Back,Girona FC,laliga,Spain,2627,32,2,2,4,0.137,76.81,77.24,10000000,12500000,2500000,20,28.26,1.09,0,3,81.92,9.07,5,9
+708072,Nicolò Savona,22,21-23,Defender,Right-Back,Juventus FC,serie-a,Italy,1727,28,2,1,3,0.156,50.5,75.94,12000000,12500000,500000,4,35.87,,,1,75.94,,6,10
+955281,Nhoa Sangui,19,20 or younger,Defender,Left-Back,Stade Reims,ligue-1,France,1148,26,0,2,2,0.157,37.52,75.93,2500000,12500000,10000000,80,0,,,1,75.93,,7,11
+655006,Diego Moreira,20,20 or younger,Midfield,Left Midfield,RC Strasbourg Alsace,ligue-1,France,2578,32,2,7,9,0.314,84.25,74.07,18000000,22000000,4000000,18.18,30.77,,,1,74.07,,4,12
+524285,Luca Netz,22,21-23,Defender,Left-Back,Borussia Mönchengladbach,bundesliga,Germany,959,24,0,2,2,0.188,31.34,73.64,6000000,12500000,6500000,52,18.48,-2.88,-4000000,3,76.78,3.28,8,13
+571607,Fabio Miretti,21,21-23,Midfield,Central Midfield,Genoa CFC,serie-a,Italy,1695,25,3,3,6,0.319,49.56,72.73,14000000,17000000,3000000,17.65,24.74,32.91,-1000000,3,58.31,16.83,5,14

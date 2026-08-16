@@ -1,0 +1,94 @@
+﻿player_id,player_name,age,position,sub_position,club_name,competition_name,country_name,minutes_played,market_value_in_eur,value_percentile_within_position_age,current_performance_percentile,qualified_seasons,average_performance_percentile,performance_percentile_stddev,minimum_performance_percentile,total_qualified_minutes,yoy_performance_percentile_change,yoy_market_value_change_eur,consistency_profile,lower_risk_position_rank,lower_risk_overall_rank
+342229,Kylian Mbappé,26,Attack,Centre-Forward,Real Madrid,laliga,Spain,2917,,68.48,96.91,5,99.38,1.38,96.91,13317,-3.09,,Very stable,1,1
+321528,Denzel Dumfries,29,Defender,Right-Back,Inter Milan,serie-a,Italy,1951,35000000,71.81,98.5,4,99.03,1.18,97.6,7843,-1.5,11000000,Very stable,1,2
+175639,Jonathan Clauss,32,Defender,Right-Back,OGC Nice,ligue-1,France,2311,5000000,53.76,99.07,5,98.61,1.74,95.58,12582,3.49,-7000000,Very stable,2,3
+398073,Achraf Hakimi,26,Defender,Right-Back,Paris Saint-Germain,ligue-1,France,2068,80000000,73.08,100,5,98.56,1.29,96.9,11204,0.88,20000000,Very stable,3,4
+198116,Federico Dimarco,27,Defender,Left-Back,Inter Milan,serie-a,Italy,2197,50000000,68.8,100,5,98.46,1.54,96.15,10423,0.74,0,Very stable,4,5
+418560,Erling Haaland,24,Attack,Centre-Forward,Manchester City,premier-league,England,2743,180000000,67.88,93.42,5,98.14,2.73,93.42,12403,-5.39,0,Very stable,2,6
+580195,Jamal Musiala,22,Midfield,Attacking Midfield,Bayern Munich,bundesliga,Germany,1805,140000000,59.79,98.68,4,97.79,2.86,93.59,7239,-0.21,20000000,Very stable,1,7
+314353,Trent Alexander-Arnold,26,Defender,Right-Back,Liverpool FC,premier-league,England,2377,75000000,72.22,99.16,5,97.74,1.98,94.44,13358,4.72,5000000,Very stable,5,8
+148455,Mohamed Salah,33,Attack,Right Winger,Liverpool FC,premier-league,England,3380,50000000,80.56,100,5,97.24,2.65,94.12,15057,3.57,-5000000,Very stable,3,9
+38253,Robert Lewandowski,36,Attack,Centre-Forward,FC Barcelona,laliga,Spain,2682,,83.33,95.88,5,97.04,2.12,94.38,13708,1.5,,Very stable,4,10
+132098,Harry Kane,31,Attack,Centre-Forward,Bayern Munich,bundesliga,Germany,2391,75000000,71.74,100,5,96.79,4.38,89.77,14960,0,-25000000,Very stable,5,11
+294057,James Maddison,28,Midfield,Attacking Midfield,Tottenham Hotspur,premier-league,England,1817,42000000,74.63,100,5,96.66,2.41,94.06,11029,5.94,-28000000,Very stable,2,12
+553875,Pedro Porro,25,Defender,Right-Back,Tottenham Hotspur,premier-league,England,2609,38000000,67.09,94.96,3,96.47,3.07,94.44,6838,0.52,-7000000,Very stable,6,13
+119211,Mitchell Weiser,31,Defender,Right-Back,SV Werder Bremen,bundesliga,Germany,2870,5000000,32.89,99.09,3,96.42,3.09,93.04,8031,6.05,-1000000,Very stable,7,14
+484547,Jeremie Frimpong,24,Defender,Right-Back,Bayer 04 Leverkusen,bundesliga,Germany,2322,50000000,68.8,98.18,4,96.02,4.92,88.68,9372,-0.95,0,Very stable,8,15
+238537,Wladimiro Falcone,30,Goalkeeper,Goalkeeper,US Lecce,serie-a,Italy,3420,3500000,20,95.83,3,95.83,4.17,91.67,10260,-4.17,-1500000,Very stable,1,16
+598577,Florian Wirtz,22,Midfield,Attacking Midfield,Bayer 04 Leverkusen,bundesliga,Germany,2356,140000000,59.79,100,5,94.55,7.19,84.15,9923,0,10000000,Very stable,3,17
+273132,Robin Gosens,30,Defender,Left-Back,ACF Fiorentina,serie-a,Italy,2617,8000000,44.3,96.24,4,94.37,6.16,85.6,8625,0.59,-4000000,Very stable,9,18
+332560,Deiver Machado,31,Defender,Left-Back,RC Lens,ligue-1,France,1805,,74.5,89.81,3,94.35,4,89.81,5137,-7.54,,Very stable,10,19
+221316,Lucas Vázquez,33,Defender,Right-Back,Real Madrid,laliga,Spain,2193,3000000,45.16,95.93,5,93.62,11.2,73.81,8430,-4.07,-1000000,Stable,11,20
+420064,Caio Henrique,27,Defender,Left-Back,AS Monaco,ligue-1,France,1932,15000000,38.89,93.52,4,93.57,5.12,86.36,9876,,,Very stable,12,21
+371998,Vinicius Junior,24,Attack,Left Winger,Real Madrid,laliga,Spain,2258,,68.48,92.78,4,93.37,5.89,85.26,9666,-4.97,,Very stable,6,22
+525299,Miguel Gutiérrez,23,Defender,Left-Back,Girona FC,laliga,Spain,2464,20000000,48.91,92.68,3,93.22,1.95,91.6,7898,-2.7,-5000000,Very stable,13,23
+392966,Nadir Zortea,26,Defender,Right-Back,Cagliari Calcio,serie-a,Italy,2727,5000000,18.38,93.98,3,92.85,6.31,86.05,5536,-4.54,2000000,Very stable,14,24
+339808,Theo Hernández,27,Defender,Left-Back,AC Milan,serie-a,Italy,2696,,74.36,89.47,5,92.73,5.47,84.8,13915,-5.34,,Very stable,15,25
+240306,Bruno Fernandes,30,Midfield,Attacking Midfield,Manchester United,premier-league,England,3023,50000000,76.12,94.79,5,91.98,4.77,87.91,15690,4.69,-20000000,Very stable,4,26
+406625,Lautaro Martínez,27,Attack,Centre-Forward,Inter Milan,serie-a,Italy,2580,95000000,66.06,78.38,5,91.84,8.13,78.38,12695,-20.15,-15000000,Stable,7,27
+479999,Eberechi Eze,27,Midfield,Attacking Midfield,Crystal Palace,premier-league,England,2603,55000000,60.51,93.75,4,91.79,6.1,82.98,9877,-3.28,0,Very stable,5,28
+607223,Rayan Cherki,21,Midfield,Attacking Midfield,Olympique Lyon,ligue-1,France,2048,45000000,49.48,100,3,91.42,7.96,84.27,5637,15.73,20000000,Very stable,6,29
+126414,Hakan Çalhanoğlu,31,Midfield,Defensive Midfield,Inter Milan,serie-a,Italy,1963,30000000,68.66,93.64,5,89.99,8.79,76.15,12046,-0.17,-15000000,Stable,7,30
+27992,Luka Modrić,39,Midfield,Central Midfield,Real Madrid,laliga,Spain,1820,4000000,40,88.54,4,89.87,4.85,84.16,7297,-7.25,-2000000,Very stable,8,31
+330659,Justin Kluivert,26,Midfield,Attacking Midfield,AFC Bournemouth,premier-league,England,2356,35000000,51.59,98.96,4,89.06,9.44,79.21,7619,19.75,21000000,Stable,9,32
+187492,Julian Brandt,29,Midfield,Attacking Midfield,Borussia Dortmund,bundesliga,Germany,2319,25000000,64.18,93.42,5,88.89,12.3,67.07,10535,-3.25,-15000000,Stable,10,33
+53622,İlkay Gündoğan,34,Midfield,Central Midfield,Manchester City,premier-league,England,2229,5000000,51.11,67.71,5,88.82,11.91,67.71,11472,-27.03,-10000000,Stable,11,34
+127156,Téji Savanier,33,Midfield,Attacking Midfield,Montpellier HSC,ligue-1,France,2339,,77.78,69.14,5,88.79,11.83,69.14,12275,-28.61,,Stable,12,35
+93720,Alexandre Lacazette,34,Attack,Centre-Forward,Olympique Lyon,ligue-1,France,2061,6000000,58.33,87.5,5,88.01,9.46,72.73,11017,-8.09,-3000000,Stable,8,36
+789082,Vanderson,24,Defender,Right-Back,AS Monaco,ligue-1,France,2073,20000000,45.73,80.56,4,87.91,4.98,80.56,7063,-9.71,0,Very stable,16,37
+205938,Mario Pašalić,30,Midfield,Central Midfield,Atalanta BC,serie-a,Italy,1970,10000000,45.52,73.64,5,87.46,11.49,73.64,8920,-18.4,-3000000,Stable,13,38
+708265,Bradley Barcola,22,Attack,Left Winger,Paris Saint-Germain,ligue-1,France,2193,70000000,69.33,94.44,3,86.37,11.24,73.53,5277,20.91,20000000,Stable,9,39
+314398,Jae-sung Lee,32,Midfield,Attacking Midfield,1.FSV Mainz 05,bundesliga,Germany,2666,2500000,33.33,88.16,4,86.27,3.47,81.11,8147,7.05,0,Very stable,14,40
+288225,Ludovic Blas,27,Midfield,Right Midfield,Stade Rennais FC,ligue-1,France,2302,18000000,38.22,97.53,5,86.24,8.2,75.28,12463,22.25,3000000,Stable,15,41
+654539,Adrien Truffert,23,Defender,Left-Back,Stade Rennais FC,ligue-1,France,2756,15000000,40.22,68.52,5,86.18,12.03,68.52,10456,-10.24,-3000000,Stable,17,42
+392765,Emile Smith Rowe,24,Midfield,Attacking Midfield,Fulham FC,premier-league,England,2060,30000000,49.68,79.17,3,85.58,6.66,79.17,5429,,,Very stable,16,43
+316264,Martin Ødegaard,26,Midfield,Attacking Midfield,Arsenal FC,premier-league,England,2332,85000000,66.24,85.42,5,85.44,9.81,71.28,12477,-6.66,-25000000,Stable,17,44
+502670,Khvicha Kvaratskhelia,24,Attack,Left Winger,SSC Napoli,serie-a,Italy,2107,90000000,65.45,81.08,3,85.18,6.04,81.08,7399,-1.27,10000000,Very stable,10,45
+369684,Rasmus Nissen Kristensen,27,Defender,Right-Back,Eintracht Frankfurt,bundesliga,Germany,2516,14000000,37.61,89.09,3,85.12,8.32,75.56,6220,13.53,4000000,Stable,18,46
+429014,Morgan Gibbs-White,25,Midfield,Attacking Midfield,Nottingham Forest,premier-league,England,2824,50000000,58.6,91.67,3,84.95,6.83,78.02,9145,6.52,10000000,Very stable,18,47
+255901,Rodrigo De Paul,31,Midfield,Central Midfield,Atlético de Madrid,laliga,Spain,2112,25000000,64.18,87.5,5,84.79,10.13,67,11490,0.13,-5000000,Stable,19,48
+169880,Giovanni Di Lorenzo,31,Defender,Right-Back,SSC Napoli,serie-a,Italy,3330,12000000,52.35,79.7,5,84.51,4.51,79.7,15935,-5.49,-3000000,Very stable,19,49
+278359,Borja Iglesias,32,Attack,Centre-Forward,Celta de Vigo,laliga,Spain,1964,,83.33,87.63,4,84.46,8.88,71.26,7327,,,Stable,11,50
+131225,Nicolás Tagliafico,32,Defender,Left-Back,Olympique Lyon,ligue-1,France,1904,,67.74,94.44,3,83.95,14.02,68.03,7025,5.06,,Stable,20,51
+459658,Andrea Cambiaso,25,Defender,Left-Back,Juventus FC,serie-a,Italy,2223,35000000,63.25,91.73,4,83.91,11.69,67.2,8572,7.29,10000000,Stable,21,52
+96341,Romelu Lukaku,32,Attack,Centre-Forward,SSC Napoli,serie-a,Italy,2870,22000000,77.78,91.89,5,83.2,14.61,62.5,11652,18.36,-8000000,Stable,12,53
+93707,Christian Günter,32,Defender,Left-Back,SC Freiburg,bundesliga,Germany,2324,3500000,47.31,82.73,5,83.06,10.26,68.57,12258,-9.44,-1500000,Stable,22,54
+82873,Pascal Groß,34,Midfield,Central Midfield,Borussia Dortmund,bundesliga,Germany,2337,5000000,51.11,81.58,5,82.87,8.72,69.89,13220,0.39,-3000000,Stable,20,55
+212862,Álex Remiro,30,Goalkeeper,Goalkeeper,Real Sociedad,laliga,Spain,3240,18000000,53.33,83.33,5,82.74,10.65,66.67,16506,4.16,-7000000,Stable,2,56
+127202,Matz Sels,33,Goalkeeper,Goalkeeper,Nottingham Forest,premier-league,England,3420,7000000,53.49,84,4,82.73,6.92,73.68,13320,10.32,0,Very stable,3,57
+311178,Georgios Kyriakopoulos,29,Defender,Left-Back,AC Monza,serie-a,Italy,2851,2500000,12.75,83.46,5,82.31,9.55,69.23,9474,6.42,-1000000,Stable,23,58
+336125,Mërgim Vojvoda,30,Defender,Right-Back,Torino FC,serie-a,Italy,1826,3000000,16.11,72.18,5,82.28,9.07,72.18,8257,-13.75,0,Stable,24,59
+826224,Arnau Martínez,22,Defender,Right-Back,Girona FC,laliga,Spain,2627,10000000,28.26,77.24,3,81.92,9.07,76.15,6605,1.09,0,Stable,25,60
+431755,Dejan Kulusevski,25,Midfield,Attacking Midfield,Tottenham Hotspur,premier-league,England,2391,50000000,58.6,82.29,5,81.9,9.9,70.91,11182,4.07,-5000000,Stable,21,61
+709726,Hugo Ekitiké,23,Attack,Centre-Forward,Eintracht Frankfurt,bundesliga,Germany,2582,75000000,72,79.71,3,81.64,13.09,69.62,5013,,,Stable,13,62
+255942,Nicolò Barella,28,Midfield,Central Midfield,Inter Milan,serie-a,Italy,2498,75000000,77.61,75.45,5,80.86,10.76,67.26,13814,8.19,-5000000,Stable,22,63
+445126,Emanuele Valeri,26,Defender,Left-Back,Parma Calcio 1913,serie-a,Italy,2879,,74.36,92.48,3,80.6,10.37,73.33,6848,19.15,,Stable,26,64
+241923,Lorenzo Montipò,29,Goalkeeper,Goalkeeper,Hellas Verona,serie-a,Italy,3240,2000000,0,79.17,5,80.32,11.56,65.22,16290,-16.66,-1500000,Stable,4,65
+399434,Marcus Tavernier,26,Midfield,Attacking Midfield,AFC Bournemouth,premier-league,England,1940,18000000,38.22,84.38,3,80.31,13.4,65.35,5822,19.03,-2000000,Stable,23,66
+369674,Joakim Maehle,28,Defender,Left-Back,VfL Wolfsburg,bundesliga,Germany,2190,14000000,57.05,90,5,79.86,9.36,68.22,9534,10,0,Stable,27,67
+174196,Kenny Lala,33,Defender,Right-Back,Stade Brestois 29,ligue-1,France,2685,2000000,36.56,79.63,4,79.17,10.67,69.67,8911,6.18,-1000000,Stable,28,68
+683840,Pedri,22,Midfield,Central Midfield,FC Barcelona,laliga,Spain,2895,,62.89,77.08,4,79.16,7.17,72.84,8787,-12.39,,Very stable,24,69
+364135,Moise Kean,25,Attack,Centre-Forward,ACF Fiorentina,serie-a,Italy,2711,50000000,58.18,90.54,4,79.15,11.48,64.47,6513,,,Stable,14,70
+576024,Julián Alvarez,25,Attack,Centre-Forward,Atlético de Madrid,laliga,Spain,2519,100000000,66.67,88.66,3,78.86,8.49,73.81,6632,14.85,10000000,Stable,15,71
+215977,Adrien Thomasson,31,Midfield,Central Midfield,RC Lens,ligue-1,France,2625,5000000,26.87,76.54,5,78.83,13.18,59.05,11075,-2.11,0,Stable,25,72
+161056,Joshua Kimmich,30,Midfield,Defensive Midfield,Bayern Munich,bundesliga,Germany,2847,45000000,75.37,72.37,5,78.75,11.68,66.67,12527,5.7,-5000000,Stable,26,73
+142021,Sergi Darder,31,Midfield,Central Midfield,RCD Mallorca,laliga,Spain,2763,4000000,24.63,73.96,4,77.86,6.79,70.3,11359,-9.2,-2000000,Very stable,27,74
+46413,Ante Budimir,33,Attack,Centre-Forward,CA Osasuna,laliga,Spain,2967,5000000,44.44,90.72,5,77.74,12.9,60.92,10588,4.2,0,Stable,16,75
+412363,Rodrygo,24,Attack,Right Winger,Real Madrid,laliga,Spain,1938,,68.48,79.38,5,77.17,11.18,62.07,9242,9.72,,Stable,17,76
+119296,Emre Can,31,Defender,Centre-Back,Borussia Dortmund,bundesliga,Germany,2102,7000000,40.27,69.09,5,76.7,12.13,63.81,9776,-2.21,-3000000,Stable,29,77
+434675,Cody Gakpo,26,Attack,Left Winger,Liverpool FC,premier-league,England,1938,70000000,63.64,77.63,3,76.38,3.02,72.94,5049,-0.94,20000000,Very stable,18,78
+232454,Nadiem Amiri,28,Midfield,Central Midfield,1.FSV Mainz 05,bundesliga,Germany,2484,20000000,58.96,85.53,5,75.27,9.1,63.33,7787,22.2,13000000,Stable,28,79
+125714,Mark Flekken,32,Goalkeeper,Goalkeeper,Brentford FC,premier-league,England,3276,10000000,67.44,80,4,74.71,11.22,57.89,12501,0,-2000000,Stable,5,80
+193900,Marius Wolf,30,Defender,Right-Back,FC Augsburg,bundesliga,Germany,2163,3000000,16.11,66.36,5,73.9,11.64,61.74,8777,4.62,0,Stable,30,81
+203394,Andreas Pereira,29,Midfield,Central Midfield,Fulham FC,premier-league,England,2026,18000000,56.72,72.92,3,73.24,0.91,72.53,7383,-1.34,-2000000,Very stable,29,82
+59561,Dani Parejo,36,Midfield,Central Midfield,Villarreal CF,laliga,Spain,2278,,77.78,68.75,5,72.42,10.23,57.43,13983,-8.09,,Stable,30,83
+534033,Alexis Mac Allister,26,Midfield,Central Midfield,Liverpool FC,premier-league,England,2609,100000000,66.88,70.83,5,71.55,9.58,55.32,11337,-6.4,25000000,Stable,31,84
+249565,Youri Tielemans,28,Midfield,Central Midfield,Aston Villa,premier-league,England,3032,38000000,72.39,65.63,5,71.5,13.08,52.75,12996,-20.51,13000000,Stable,32,85
+185077,Vincenzo Grifo,32,Attack,Left Winger,SC Freiburg,bundesliga,Germany,2455,6000000,58.33,71.01,5,71.13,6.17,65.15,12350,5.86,-3000000,Very stable,19,86
+520624,Bruno Guimarães,27,Midfield,Central Midfield,Newcastle United,premier-league,England,3287,80000000,64.33,66.67,5,70.17,8.46,59.05,13723,-15.51,-5000000,Stable,33,87
+548111,Álex Baena,23,Attack,Left Winger,Villarreal CF,laliga,Spain,2608,,76,83.51,3,69.98,12.87,57.89,7152,14.97,,Stable,20,88
+111873,Emiliano Martínez,32,Goalkeeper,Goalkeeper,Aston Villa,premier-league,England,3195,20000000,72.09,72,5,69.48,11.93,54.55,16010,0,-8000000,Stable,6,89
+435338,Gabriel,27,Defender,Centre-Back,Arsenal FC,premier-league,England,2365,75000000,72.22,91.6,5,69.34,14.39,55.17,13884,28.9,5000000,Stable,31,90
+127573,Phillipp Mwene,31,Defender,Left-Back,1.FSV Mainz 05,bundesliga,Germany,2618,1800000,10.74,78.18,3,69.33,10.73,57.39,6296,20.79,0,Stable,32,91
+411975,Jules Koundé,26,Defender,Right-Back,FC Barcelona,laliga,Spain,2606,,74.36,83.74,5,69.03,11.53,57.69,13645,26.05,,Stable,33,92
+388165,Yoane Wissa,28,Attack,Centre-Forward,Brentford FC,premier-league,England,2929,,73.91,82.89,5,68.6,12.22,51.19,10995,31.7,,Stable,21,93
