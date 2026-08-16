@@ -1,0 +1,16 @@
+player_id,player_name,age,position,sub_position,club_name,competition_name,country_name,minutes_played,goal_contributions_per_90,availability_percentage,previous_performance_percentile,current_performance_percentile,yoy_performance_percentile_change,market_value_in_eur,position_age_median_market_value_eur,value_percentile_within_position_age,yoy_market_value_change_eur,yoy_market_value_percentage_change,qualified_seasons,average_performance_percentile,high_upside_score,high_upside_position_rank,high_upside_overall_rank
+652275,Hákon Arnar Haraldsson,22,Midfield,Attacking Midfield,LOSC Lille,ligue-1,France,1766,0.408,57.71,40.45,83.95,43.5,18000000,17000000,31.96,9000000,100,2,62.2,82.84,1,1
+550108,Nicola Zalewski,23,Midfield,Left Midfield,Associazione Sportiva Roma,serie-a,Italy,963,0.28,28.16,23.01,67.27,44.26,12000000,17000000,17.53,0,0,3,43.55,79.17,2,2
+557613,Quentin Merlin,23,Defender,Left-Back,Olympique Marseille,ligue-1,France,1598,0.225,52.22,55.75,87.04,31.29,15000000,12500000,40.22,5000000,50,4,77.84,78.5,1,3
+634131,Aimar Oroz,23,Midfield,Attacking Midfield,CA Osasuna,laliga,Spain,2983,0.272,87.22,37.89,75,37.11,15000000,17000000,25.77,0,0,3,67.66,78.44,3,4
+532826,Mason Greenwood,23,Attack,Right Winger,Olympique Marseille,ligue-1,France,2818,0.862,92.09,55.06,91.67,36.61,40000000,20000000,57.33,15000000,60,4,62.24,77.9,1,5
+607223,Rayan Cherki,21,Midfield,Attacking Midfield,Olympique Lyon,ligue-1,France,2048,0.835,66.93,84.27,100,15.73,45000000,17000000,49.48,20000000,80,3,91.42,77.35,4,6
+918969,Lamine Camara,21,Midfield,Central Midfield,AS Monaco,ligue-1,France,2065,0.392,67.48,58.43,82.72,24.29,22000000,17000000,35.05,12000000,120,2,70.58,75.75,5,7
+500689,Evann Guessand,23,Attack,Right Winger,OGC Nice,ligue-1,France,2575,0.734,84.15,55.88,83.33,27.45,25000000,20000000,40,17000000,212.5,3,58.64,75.73,2,8
+455661,Nick Woltemade,23,Attack,Centre-Forward,VfB Stuttgart,bundesliga,Germany,1620,0.778,52.94,3.03,73.91,70.88,30000000,20000000,50.67,26000000,650,2,38.47,75.59,3,9
+876631,Habib Diarra,21,Midfield,Central Midfield,RC Strasbourg Alsace,ligue-1,France,2357,0.344,77.03,50.56,77.78,27.22,20000000,17000000,34.02,2000000,11.11,3,68.78,74.66,6,10
+559328,Emmanuel Emegha,22,Attack,Centre-Forward,RC Strasbourg Alsace,ligue-1,France,2307,0.663,75.39,42.65,75,32.35,25000000,20000000,40,13000000,108.33,2,58.83,73.46,4,11
+585959,Arnaud Kalimuendo,23,Attack,Centre-Forward,Stade Rennais FC,ligue-1,France,2591,0.729,84.67,69.12,81.94,12.82,22000000,20000000,38.67,2000000,10,5,74.08,71.05,5,12
+569366,Enzo Millot,22,Midfield,Attacking Midfield,VfB Stuttgart,bundesliga,Germany,1851,0.535,60.49,86.67,90.79,4.12,35000000,17000000,45.36,5000000,16.67,2,88.73,70.75,7,13
+826224,Arnau Martínez,22,Defender,Right-Back,Girona FC,laliga,Spain,2627,0.137,76.81,76.15,77.24,1.09,10000000,12500000,28.26,0,0,3,81.92,68.02,2,14
+583189,Anthony Elanga,23,Attack,Right Winger,Nottingham Forest,premier-league,England,2510,0.61,73.39,48.81,67.11,18.3,42000000,20000000,60,20000000,90.91,3,47.35,60.69,6,15
