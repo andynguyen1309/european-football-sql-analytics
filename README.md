@@ -405,7 +405,7 @@ https://www.kaggle.com/datasets/davidcariboo/player-scores
 
 The raw data are intentionally not stored in this repository.
 
-See [`data/README.md`](data/README.md) for the source files used.
+See [`data/README.md`](data/README_data.md) for the source files used.
 
 ## 2. Create the PostgreSQL environment
 
